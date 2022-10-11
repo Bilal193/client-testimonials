@@ -15,8 +15,8 @@ const feedback = [{
     feed: "The way you gave that presentation today really shows me you listened to what I said about the snafu last month. I appreciate your mindful application of feedback."
 },
 {
-    client: 'tonny',
-    picture: 'tonny.jpg',
+    client: 'Tonny',
+    picture: 'Tonny.jpg',
     feed: "I’m so impressed by your dedication to learning. I know it wasn’t easy when that technology solution you presented didn’t work out. I’m amazed that you managed to distill feedback from all those stakeholders and find a new, viable solution that everyone loves."
 },
 {
