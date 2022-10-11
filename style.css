@@ -23,13 +23,13 @@ body {
 .btnprev {
     position: absolute;
     top: 33%;
-    right: 110%;
+    right: 100%;
 
 }
 
 .btnnext {position: absolute;
     top: 33%;
-    left: 110%;}
+    left: 100%;}
     #feedback{
         font-family: 'Noto Sans', sans-serif;
     }
