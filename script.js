@@ -50,7 +50,7 @@ const funcb = () => {
     }
     if(num>=0 && num<feedback.length)
     {console.log(num);
-    document.getElementById('pic').setAttribute('src', `/images/${feedback[num].picture}`);
+    document.getElementById('pic').setAttribute('src', `images/${feedback[num].picture}`);
     document.getElementById('customer-name').textContent = `${feedback[num].client}`;
     document.getElementById('feedback').textContent = `"${feedback[num].feed}`;}
 };
